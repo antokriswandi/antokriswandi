@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Anto Kriswandi](img/Aku%20Anto%20Krswnd.jpg)
 <!--
 **antokriswandi/antokriswandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
