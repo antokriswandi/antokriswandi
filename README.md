@@ -10,6 +10,7 @@
 ##### SELANJUTNYA, MUNGKIN AKU AKAN MENCOBA 👨‍💻
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antokriswandi&layout=compact)
 <!--
 **antokriswandi/antokriswandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
