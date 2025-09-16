@@ -10,7 +10,8 @@
 ##### SELANJUTNYA, MUNGKIN AKU AKAN MENCOBA 👨‍💻
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antokriswandi&layout=compact)
+##### AKU JARANG DI GIT, KITA BISA NGOBROL DI 💬
+![https://www.instagram.com/anto_kriswandi](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 <!--
 **antokriswandi/antokriswandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
